@@ -14,7 +14,7 @@ import Projects from './components/Projects';
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-  <BrowserRouter>
+  <BrowserRouter  basename="/PORTFOLIO">
     <Routes>
 
   
