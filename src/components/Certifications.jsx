@@ -2,6 +2,7 @@ import { useRef, useEffect } from "react";
 import { gsap } from "gsap";
 import "./css/Certifications.css";
 
+
 export const Certifications = ({
   items,
   className = "",
@@ -20,7 +21,7 @@ export const Certifications = ({
 
   const demo = [
     {
-        image: "/certifications/AWS Certified Cloud Practitioner certificate_page-0001.jpg",
+        image: '/PORTFOLIO/certifications/AWS Certified Cloud Practitioner certificate_page-0001.jpg',
         title: "AWS Certified Cloud Practitioner",
         subtitle: "Amazon Web Services",
         description: "Validated foundational knowledge of AWS Cloud and global infrastructure.",
@@ -30,7 +31,7 @@ export const Certifications = ({
         url:"https://www.credly.com/badges/b7337cd9-e3ec-4096-9329-190c95edea88/public_url"
       },
     {
-      image: "/certifications/ORACLE SE-11 CERTIFICATE_page-0001.jpg",
+      image: "/PORTFOLIO/certifications/ORACLE SE-11 CERTIFICATE_page-0001.jpg",
       title: "Java SE-11 Developer",
       subtitle: "Oracle",
       borderColor: "#10B981",
@@ -38,7 +39,7 @@ export const Certifications = ({
       url: "https://catalog-education.oracle.com/ords/certview/sharebadge?id=9A57BDF4F4BE9D9CA0A23514A7FBBC6C2E03AB763B06391E6B05CAAC3288EE1E",
     },
     {
-      image: "/certifications/medisetti-bala-chellarao-ba550455-9f36-493b-aeec-04d937356b13-certificate_page-0001.jpg",
+      image: "/PORTFOLIO/certifications/medisetti-bala-chellarao-ba550455-9f36-493b-aeec-04d937356b13-certificate_page-0001.jpg",
       title: "Mongo DB Associate Developer",
       subtitle: "MongoDB",
       borderColor: "#F59E0B",

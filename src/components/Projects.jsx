@@ -21,7 +21,7 @@ import {
 const projects = [
   {
     title: "Food Delivery Application ",
-    image: "/projectimages/Screenshot 2025-08-06 at 12.45.39.png",
+    image: "/PORTFOLIO/projectimages/Screenshot 2025-08-06 at 12.45.39.png",
     description:
       "Easily create and preview GitHub README files. Generate markdown and download or copy it for your projects.",
     techStack: ["Python", "CSS", "Django", "PythonAnywhere", "GitHub"],
@@ -30,7 +30,7 @@ const projects = [
   },
   {
     title: "CareerQuest-JobPortal",
-    image: "/projectimages/Screenshot 2025-08-06 at 13.55.25.png",
+    image: "/PORTFOLIO/projectimages/Screenshot 2025-08-06 at 13.55.25.png",
     description:
       "An intelligent resume analysis tool that evaluates resumes against job descriptions using AI-powered semantic matching.",
     techStack: ["React", "Tailwind CSS", "Render", "Framer"],
