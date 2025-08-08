@@ -23,7 +23,7 @@ const projects = [
     title: "Food Delivery Application ",
     image: "/PORTFOLIO/projectimages/Screenshot 2025-08-06 at 12.45.39.png",
     description:
-      "Easily create and preview GitHub README files. Generate markdown and download or copy it for your projects.",
+      "Built a web platform with Django backend and a responsive front-end using Bootstrap, HTML, and CSS Integrated user authentication and role-based access for customers, restaurants, and delivery partners.",
     techStack: ["Python", "CSS", "Django", "PythonAnywhere", "GitHub"],
     liveDemo: "https://2300031585mbalu.pythonanywhere.com/",
     github: "https://github.com/MedisettiBalaChellarao/PFSDpRoject",
@@ -32,7 +32,7 @@ const projects = [
     title: "CareerQuest-JobPortal",
     image: "/PORTFOLIO/projectimages/Screenshot 2025-08-06 at 13.55.25.png",
     description:
-      "An intelligent resume analysis tool that evaluates resumes against job descriptions using AI-powered semantic matching.",
+      "Developed a job portal using React + Vite with MongoDB (Atlas & Compass) for full-stack application tracking,Implemented secure authentication and authorization using JWT to protect user data and sessions, Enabled job seekers to view listings, apply for jobs with resume upload.",
     techStack: ["React", "Tailwind CSS", "Render", "Framer"],
     liveDemo: "https://deploymentfrontend-e513.onrender.com",
     github: "https://github.com/MedisettiBalaChellarao/MswdSdp",
